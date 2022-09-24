@@ -1,6 +1,6 @@
 # holbertonschool-zero_day
 
-This reposirtory is for educational purpose. Here are some of my first works unsing Git in the terminal. 
+This reposirtory is for educational purpose. Here are some of my first try using Git commands in the terminal. 
 
 ###### Resources
 Here are some general resources that help me throught the trayectory of the project. 
@@ -11,6 +11,10 @@ Here are some general resources that help me throught the trayectory of the proj
 
 [Echo into a file](https://forum.howtoforge.com/threads/echo-into-a-file.115/)
 
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#table-of-contents)
+
 Lizbeth Garcia Lebron (Creator)
+
 Started: September 20, 2022.
+
 Ended: September 21, 2022. 
