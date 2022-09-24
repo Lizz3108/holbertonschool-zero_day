@@ -15,6 +15,4 @@ Here are some general resources that help me throught the trayectory of the proj
 
 Lizbeth Garcia Lebron (Creator)
 
-Started: September 20, 2022.
-
-Ended: September 21, 2022. 
+Proyects from the week September 21, 2022 - September 23, 2022.
