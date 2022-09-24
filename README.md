@@ -13,6 +13,8 @@ Here are some general resources that help me throught the trayectory of the proj
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#table-of-contents)
 
+[Pushing commits to a remote repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
+
 Lizbeth Garcia Lebron (Creator)
 
 Proyects from the week September 21, 2022 - September 23, 2022.
