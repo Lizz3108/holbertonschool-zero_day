@@ -4,6 +4,4 @@ This proyects helped me try git and see how it works and also explore some of th
 
 Lizbeth Garcia Lebron (Creator) 
 
-Started: September 21, 2022.
-
-Ended: September 22, 2022.
+Proyects from the week September 21, 2022 - September 23, 2022.
